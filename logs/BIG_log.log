@@ -1,0 +1,284 @@
+2021-11-04T13:43:22.695571+0100 ERROR 
+Description: type not specified 
+Photo: 00063.jpg400121
+Object: 0
+Error: {'shape_attributes': {'name': 'rect', 'x': 536, 'y': 395, 'width': 175, 'height': 149}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:22.725458+0100 ERROR 
+Description: type not specified 
+Photo: 00063.jpg400121
+Object: 1
+Error: {'shape_attributes': {'name': 'rect', 'x': 760, 'y': 424, 'width': 119, 'height': 138}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:22.759875+0100 ERROR 
+Description: type not specified 
+Photo: 00063.jpg400121
+Object: 2
+Error: {'shape_attributes': {'name': 'rect', 'x': 966, 'y': 498, 'width': 140, 'height': 122}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:22.793762+0100 ERROR 
+Description: type not specified 
+Photo: 00063.jpg400121
+Object: 3
+Error: {'shape_attributes': {'name': 'rect', 'x': 1131, 'y': 743, 'width': 146, 'height': 140}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:22.828628+0100 ERROR 
+Description: type not specified 
+Photo: 00063.jpg400121
+Object: 4
+Error: {'shape_attributes': {'name': 'rect', 'x': 1003, 'y': 931, 'width': 160, 'height': 124}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:22.862574+0100 ERROR 
+Description: type not specified 
+Photo: 00063.jpg400121
+Object: 5
+Error: {'shape_attributes': {'name': 'rect', 'x': 508, 'y': 655, 'width': 394, 'height': 324}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:22.901432+0100 ERROR 
+Description: type not specified 
+Photo: 00064.jpg399292
+Object: 0
+Error: {'shape_attributes': {'name': 'rect', 'x': 394, 'y': 717, 'width': 176, 'height': 168}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:22.936339+0100 ERROR 
+Description: type not specified 
+Photo: 00064.jpg399292
+Object: 1
+Error: {'shape_attributes': {'name': 'rect', 'x': 492, 'y': 467, 'width': 175, 'height': 140}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:22.970248+0100 ERROR 
+Description: type not specified 
+Photo: 00064.jpg399292
+Object: 2
+Error: {'shape_attributes': {'name': 'rect', 'x': 738, 'y': 395, 'width': 165, 'height': 179}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.004158+0100 ERROR 
+Description: type not specified 
+Photo: 00064.jpg399292
+Object: 3
+Error: {'shape_attributes': {'name': 'rect', 'x': 939, 'y': 462, 'width': 170, 'height': 173}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.047045+0100 ERROR 
+Description: type not specified 
+Photo: 00064.jpg399292
+Object: 4
+Error: {'shape_attributes': {'name': 'rect', 'x': 1038, 'y': 736, 'width': 162, 'height': 146}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.081951+0100 ERROR 
+Description: type not specified 
+Photo: 00064.jpg399292
+Object: 5
+Error: {'shape_attributes': {'name': 'rect', 'x': 620, 'y': 566, 'width': 395, 'height': 370}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.115896+0100 ERROR 
+Description: type not specified 
+Photo: 00065.jpg397372
+Object: 0
+Error: {'shape_attributes': {'name': 'rect', 'x': 1054, 'y': 685, 'width': 140, 'height': 149}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.149798+0100 ERROR 
+Description: type not specified 
+Photo: 00065.jpg397372
+Object: 1
+Error: {'shape_attributes': {'name': 'rect', 'x': 709, 'y': 428, 'width': 203, 'height': 156}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.187668+0100 ERROR 
+Description: type not specified 
+Photo: 00065.jpg397372
+Object: 2
+Error: {'shape_attributes': {'name': 'rect', 'x': 505, 'y': 471, 'width': 160, 'height': 163}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.220579+0100 ERROR 
+Description: type not specified 
+Photo: 00065.jpg397372
+Object: 3
+Error: {'shape_attributes': {'name': 'rect', 'x': 397, 'y': 720, 'width': 181, 'height': 151}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.260539+0100 ERROR 
+Description: type not specified 
+Photo: 00065.jpg397372
+Object: 4
+Error: {'shape_attributes': {'name': 'rect', 'x': 379, 'y': 914, 'width': 175, 'height': 130}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.294487+0100 ERROR 
+Description: type not specified 
+Photo: 00065.jpg397372
+Object: 5
+Error: {'shape_attributes': {'name': 'rect', 'x': 614, 'y': 563, 'width': 357, 'height': 373}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.331351+0100 ERROR 
+Description: type not specified 
+Photo: 00066.jpg394775
+Object: 0
+Error: {'shape_attributes': {'name': 'rect', 'x': 275, 'y': 546, 'width': 202, 'height': 175}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.365296+0100 ERROR 
+Description: type not specified 
+Photo: 00066.jpg394775
+Object: 1
+Error: {'shape_attributes': {'name': 'rect', 'x': 670, 'y': 522, 'width': 194, 'height': 162}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.398209+0100 ERROR 
+Description: type not specified 
+Photo: 00066.jpg394775
+Object: 2
+Error: {'shape_attributes': {'name': 'rect', 'x': 1009, 'y': 587, 'width': 148, 'height': 152}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.434639+0100 ERROR 
+Description: type not specified 
+Photo: 00066.jpg394775
+Object: 3
+Error: {'shape_attributes': {'name': 'rect', 'x': 1060, 'y': 839, 'width': 171, 'height': 181}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.467588+0100 ERROR 
+Description: type not specified 
+Photo: 00066.jpg394775
+Object: 4
+Error: {'shape_attributes': {'name': 'rect', 'x': 352, 'y': 903, 'width': 173, 'height': 119}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.519961+0100 ERROR 
+Description: type not specified 
+Photo: 00066.jpg394775
+Object: 5
+Error: {'shape_attributes': {'name': 'rect', 'x': 643, 'y': 660, 'width': 405, 'height': 341}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.606141+0100 ERROR 
+Description: type not specified 
+Photo: 00067.jpg396638
+Object: 0
+Error: {'shape_attributes': {'name': 'rect', 'x': 290, 'y': 678, 'width': 202, 'height': 144}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.638572+0100 ERROR 
+Description: type not specified 
+Photo: 00067.jpg396638
+Object: 1
+Error: {'shape_attributes': {'name': 'rect', 'x': 349, 'y': 901, 'width': 141, 'height': 127}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.676310+0100 ERROR 
+Description: type not specified 
+Photo: 00067.jpg396638
+Object: 2
+Error: {'shape_attributes': {'name': 'rect', 'x': 1039, 'y': 516, 'width': 184, 'height': 186}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.711178+0100 ERROR 
+Description: type not specified 
+Photo: 00067.jpg396638
+Object: 3
+Error: {'shape_attributes': {'name': 'rect', 'x': 1062, 'y': 785, 'width': 184, 'height': 135}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.744117+0100 ERROR 
+Description: type not specified 
+Photo: 00067.jpg396638
+Object: 4
+Error: {'shape_attributes': {'name': 'rect', 'x': 1039, 'y': 968, 'width': 157, 'height': 105}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.777002+0100 ERROR 
+Description: type not specified 
+Photo: 00067.jpg396638
+Object: 5
+Error: {'shape_attributes': {'name': 'rect', 'x': 665, 'y': 676, 'width': 376, 'height': 322}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.808952+0100 ERROR 
+Description: type not specified 
+Photo: 00076.jpg380788
+Object: 0
+Error: {'shape_attributes': {'name': 'rect', 'x': 227, 'y': 457, 'width': 202, 'height': 178}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.840662+0100 ERROR 
+Description: type not specified 
+Photo: 00076.jpg380788
+Object: 1
+Error: {'shape_attributes': {'name': 'rect', 'x': 911, 'y': 517, 'width': 168, 'height': 162}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.873538+0100 ERROR 
+Description: type not specified 
+Photo: 00076.jpg380788
+Object: 2
+Error: {'shape_attributes': {'name': 'rect', 'x': 416, 'y': 560, 'width': 424, 'height': 387}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.910474+0100 ERROR 
+Description: type not specified 
+Photo: 00076.jpg380788
+Object: 3
+Error: {'shape_attributes': {'name': 'rect', 'x': 1043, 'y': 579, 'width': 387, 'height': 368}, 'region_attributes': {}}
+
+
+2021-11-04T13:43:23.946342+0100 ERROR 
+Description: glass filling not specified 
+Photo: 00102.jpg389243
+Object: 0
+Error: {'shape_attributes': {'name': 'rect', 'x': 235, 'y': 674, 'width': 190, 'height': 162}, 'region_attributes': {'Type': 'glass'}}
+
+
+2021-11-04T13:43:23.984242+0100 ERROR 
+Description: glass filling not specified 
+Photo: 00102.jpg389243
+Object: 1
+Error: {'shape_attributes': {'name': 'rect', 'x': 600, 'y': 311, 'width': 206, 'height': 189}, 'region_attributes': {'Type': 'glass'}}
+
+
+2021-11-04T13:43:24.020146+0100 ERROR 
+Description: plates filling not specified 
+Photo: 00102.jpg389243
+Object: 2
+Error: {'shape_attributes': {'name': 'rect', 'x': 560, 'y': 651, 'width': 387, 'height': 343}, 'region_attributes': {'Type': 'plate'}}
+
+
+2021-11-04T13:43:24.057058+0100 ERROR 
+Description: glass filling not specified 
+Photo: 00102.jpg389243
+Object: 3
+Error: {'shape_attributes': {'name': 'rect', 'x': 1438, 'y': 679, 'width': 190, 'height': 200}, 'region_attributes': {'Type': 'glass'}}
+
+
+2021-11-04T13:43:24.089008+0100 ERROR 
+Description: plates filling not specified 
+Photo: 00102.jpg389243
+Object: 4
+Error: {'shape_attributes': {'name': 'rect', 'x': 895, 'y': 238, 'width': 432, 'height': 405}, 'region_attributes': {'Type': 'plate'}}
+
+
+2021-11-04T13:43:24.120923+0100 INFO # --------------------------------- # DIAGRAMS # ------------------------------- #
+2021-11-04T13:43:24.120923+0100 INFO # ---------------------------- # DATA BASE CREATING # -------------------------- #
+2021-11-04T13:43:24.389697+0100 INFO The table "stats" was dropped
+2021-11-04T13:43:24.563603+0100 INFO Tha table "stats" was created and filled
+
+2021-11-04T13:43:24.578614+0100 INFO The table "reg_dev" was dropped
+2021-11-04T13:43:24.930073+0100 INFO The table "reg_dev" was created and filled
+
+2021-11-04T13:43:24.936130+0100 INFO The table "reg_info" was dropped
+2021-11-04T13:43:25.236018+0100 INFO The table "reg_info" was created and filled
+2021-11-04T13:43:25.236018+0100 INFO # ------------------------------- # END OF PROGRAM # --------------------------- #
